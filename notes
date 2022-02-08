@@ -1,0 +1,10 @@
+
+snippet for 4k screens
+
+theme: {
+extend: {
+    screens:{
+    "3xl":"2000px",
+    },
+},
+},

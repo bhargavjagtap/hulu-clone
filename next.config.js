@@ -2,6 +2,6 @@
 module.exports = {
   reactStrictMode: true,
   images:{
-    domains: ['cdn.worldvectorlogo.com', "image.tmdb.org"]  ,
+    domains: ['www.nicepng.com', "image.tmdb.org"]  ,
   },
 };
